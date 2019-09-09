@@ -22,6 +22,10 @@
           <option name="url" value="git@github.com:WynkLimited/movies_android.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/hiteshsahu/Android-App-Data-Usage-Monitor.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/repo" />
